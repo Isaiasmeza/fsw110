@@ -23,3 +23,8 @@ var newli3 = document.createElement("li")
 newli3.textContent = "Cereal"
 newli3.style.fontSize = "35px"
 mylist.append(newli3)
+
+//paragraph
+var para = document.createElement("p")
+para.textContent = "This was all created through JavaScript"
+document.body.append(para)

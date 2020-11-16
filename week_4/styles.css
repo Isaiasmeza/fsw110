@@ -1,0 +1,18 @@
+#div1 {
+    background-color: tan;
+    text-align:center;
+    padding: 35px;
+}
+#div2 {
+    background-color: darkslategray;
+    text-align: center;
+    padding: 35px;
+}
+#div3 {
+    background-color: gray;
+    text-align: center;
+    padding: 35px;
+}
+#total {
+ background-color: greenyellow;
+}
